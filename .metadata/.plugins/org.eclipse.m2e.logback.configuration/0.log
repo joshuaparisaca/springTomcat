@@ -1,0 +1,38 @@
+2018-11-30 11:02:57,342 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-30 11:04:24,214 [Worker-13: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/jparisaca/Desktop/WorkSpace/springTomcat/springApp/pom.xml
+2018-11-30 11:04:24,798 [Worker-13: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: .com.parisaca:springApp:0.0.1-SNAPSHOT @ /Users/jparisaca/Desktop/WorkSpace/springTomcat/springApp/pom.xml.
+2018-11-30 11:04:25,258 [Worker-13: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springApp/src/main/java
+2018-11-30 11:04:25,258 [Worker-13: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springApp/src/main/resources
+2018-11-30 11:04:25,259 [Worker-13: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springApp/src/test/java
+2018-11-30 11:04:27,052 [Worker-13: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-11-30 11:04:27,588 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-30 11:04:27,604 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-30 11:04:27,606 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-30 11:04:27,607 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jparisaca/Desktop/WorkSpace/springTomcat/springApp/src/test/resources
+2018-11-30 11:04:28,715 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-30 11:04:28,717 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-30 11:04:28,718 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-30 11:04:28,718 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jparisaca/Desktop/WorkSpace/springTomcat/springApp/src/test/resources
+2018-11-30 11:08:13,171 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-30 11:08:13,172 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-30 11:08:13,173 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-30 11:08:13,174 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jparisaca/Desktop/WorkSpace/springTomcat/springApp/src/test/resources
+2018-11-30 11:16:13,118 [Worker-1: Launching Executing clean in _Users_jparisaca_Desktop_WorkSpace_springTomcat_springApp] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jparisaca/Desktop/WorkSpace/springTomcat/springApp
+2018-11-30 11:16:13,119 [Worker-1: Launching Executing clean in _Users_jparisaca_Desktop_WorkSpace_springTomcat_springApp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-11-30 11:16:14,339 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-30 11:16:14,343 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-30 11:16:14,344 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-30 11:16:14,344 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jparisaca/Desktop/WorkSpace/springTomcat/springApp/src/test/resources
+2018-11-30 11:16:14,345 [Worker-7: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springApp
+2018-11-30 11:16:14,346 [Worker-7: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springApp
+2018-11-30 11:16:14,351 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-30 11:16:33,960 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-11-30 11:16:50,663 [Worker-7: Launching Executing clean in _Users_jparisaca_Desktop_WorkSpace_springTomcat_springApp] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jparisaca/Desktop/WorkSpace/springTomcat/springApp
+2018-11-30 11:16:50,663 [Worker-7: Launching Executing clean in _Users_jparisaca_Desktop_WorkSpace_springTomcat_springApp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-11-30 11:16:51,852 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-30 11:16:51,853 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-30 11:16:51,854 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-30 11:16:51,854 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jparisaca/Desktop/WorkSpace/springTomcat/springApp/src/test/resources
+2018-11-30 11:16:51,855 [Worker-14: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springApp
+2018-11-30 11:16:51,855 [Worker-14: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springApp
+2018-11-30 11:16:51,860 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!

@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/jparisaca/Desktop/WorkSpace/springTomcat/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/923259494.index
+/springApp/src/main/resources

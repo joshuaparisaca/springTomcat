@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hopefully the Image versioning works as intended and keeps the latest images and older images</h2>
+<h2>I have to rename the old images images somehow</h2>
 </body>
 </html>

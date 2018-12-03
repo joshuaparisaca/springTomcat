@@ -9,7 +9,7 @@
   #   shell: docker rm -f tomcat_demo    
   # - name: remove docker images
   #   shell: docker image rm -f tomcat_demo
-  # - name: build new docker image
+  - name: build new docker image
     # shell: docker build -t tomcat_demo .
     shell: docker build -t tomcat_demo:1 .
     args: 

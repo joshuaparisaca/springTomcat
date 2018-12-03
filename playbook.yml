@@ -16,7 +16,7 @@
         chdir: /Users/jparisaca/.jenkins/workspace/springTomcat
   - name: create docker image
     # shell: docker run -d --name tomcat_demo -p 8888:8080 tomcat_demo
-    shell: docker run -d -p 3000:3000 tomcat_demo:1
+    shell: docker run -d -p 8888:8080 tomcat_demo:1
     args: 
         chdir: /Users/jparisaca/.jenkins/workspace/springTomcat
   # ansible-playbook -K -l localhost playbook.yml

@@ -1,4 +1,4 @@
-- name: run the playbook tasks on the localhost
+- name: Removing old Docker image and Updating new image to Production
   hosts: 127.0.0.1
   connection: local
   become: yes
@@ -19,3 +19,9 @@
     args: 
         chdir: /Users/jparisaca/.jenkins/workspace/springTomcat
   # ansible-playbook -K -l localhost playbook.yml
+# cd /Users/jparisaca/.jenkins/workspace/springTomcat
+# docker stop tomcat_demo
+# docker rm -f tomcat_demo
+# docker image rm -f tomcat_demo
+# docker build -t tomcat_demo .
+# docker run -d --name tomcat_demo -p 8888:8080 tomcat_demo

@@ -1,7 +1,6 @@
 - name: Removing old Docker image and Updating new image to Production
   hosts: 127.0.0.1
   connection: local
-  become: yes
   tasks:
 
   - name: stop previous version docker

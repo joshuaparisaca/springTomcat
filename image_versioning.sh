@@ -1,6 +1,6 @@
 #!/bin/sh
 
-version=`date`
+version += 1
 
 docker build -t tomcat_demo:$version .
 

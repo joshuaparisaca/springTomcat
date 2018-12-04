@@ -1,6 +1,6 @@
 #!/bin/sh
 
-version += 1
+version="latest"
 
 docker build -t tomcat_demo:$version .
 

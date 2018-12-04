@@ -1,6 +1,6 @@
 #!/bin/sh
 
-version=`date "+%Y-%m-%d-%H:%M:%S"`
+version=`date`
 
 docker build -t tomcat_demo:$version .
 
